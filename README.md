@@ -1,14 +1,15 @@
 # Emily LeBlanc, PhD.
 
-##
 
-* [Full CV](/docs/LeBlanc_full_CV_2022.pdf)
+* Downloads:
 
-* [Technical Writing CV](docs/LeBlanc_writing_CV_2022.pdf)
+    * [Full CV](/docs/LeBlanc_full_CV_2022.pdf)
 
-* [Writing Portfolio](https://github.com/eleblanc-ai/writing-portfolio)
+    * [Technical Writing CV](docs/LeBlanc_writing_CV_2022.pdf)
 
-* [PhD Dissertation](docs/dissertation-full.pdf)
+    * [PhD Dissertation](docs/dissertation-full.pdf)
+
+* Check out my [Writing Portfolio](https://github.com/eleblanc-ai/writing-portfolio)
+
 
 * Learn more about me on [LinkedIn](https://www.linkedin.com/in/emily-leblanc-217a0042).
-
