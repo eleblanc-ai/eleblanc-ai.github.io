@@ -3,9 +3,9 @@
 
 * Downloads:
 
-    * [Full CV](/docs/LeBlanc_full_CV_2022.pdf) | [Technical Writing CV](docs/LeBlanc_writing_CV_2022.pdf)
-
-    * [PhD Dissertation](docs/dissertation-full.pdf)
+  * [Full CV](/docs/LeBlanc_full_CV_2022.pdf) 
+  * [Technical Writing CV](docs/LeBlanc_writing_CV_2022.pdf)
+  * [PhD Dissertation](docs/dissertation-full.pdf)
 
 * Check out my [Writing Portfolio](https://github.com/eleblanc-ai/writing-portfolio)
 
