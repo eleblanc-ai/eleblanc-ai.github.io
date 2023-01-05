@@ -9,4 +9,6 @@
 
 * Check out my [writing portfolio](https://github.com/eleblanc-ai/writing-portfolio).
 
+* * Check out my [blog](https://eleblanc.dev/).
+
 * Learn more about me on [LinkedIn](https://www.linkedin.com/in/emily-leblanc-217a0042).
