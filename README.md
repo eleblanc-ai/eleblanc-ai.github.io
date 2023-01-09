@@ -7,8 +7,7 @@
   * [Technical Writing CV](docs/LeBlanc_writing_CV_2022.pdf)
   * [PhD Dissertation](docs/dissertation-full.pdf)
 
-
-
+---
 * Check out my [GitHub](https://github.com/eleblanc-ai/).
 
 
