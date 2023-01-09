@@ -8,7 +8,8 @@
   * [PhD Dissertation](docs/dissertation-full.pdf)
 
 
-* Check out my [GitHub](https://github.com/eleblanc-ai/sweetpea).
+* Check out my [GitHub](https://github.com/eleblanc-ai/).
+  * [SweetPea web development kit](https://github.com/eleblanc-ai/SweetPea)
 
 
 * Take a look at my [writing portfolio](https://github.com/eleblanc-ai/writing-portfolio).
