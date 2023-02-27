@@ -17,4 +17,4 @@
 * Visit my [technical writing blog](https://eleblanc.dev/).
 
 
-* Learn more about me on [LinkedIn](https://www.linkedin.com/in/emily-leblanc-217a0042).
+* Learn more about me on [LinkedIn](https://www.linkedin.com/in/eleblanc-ai).
