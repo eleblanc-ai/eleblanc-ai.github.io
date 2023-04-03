@@ -14,7 +14,7 @@
 * Take a look at my [writing portfolio](https://github.com/eleblanc-ai/writing-portfolio).
  
 
-* Visit my [technical writing blog](https://eleblanc.dev/).
+<!--* Visit my [technical writing blog](https://eleblanc.dev/).-->
 
 
 * Learn more about me on [LinkedIn](https://www.linkedin.com/in/eleblanc-ai).
