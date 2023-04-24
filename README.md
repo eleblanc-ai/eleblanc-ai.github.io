@@ -3,8 +3,8 @@
 
 * Downloads:
 
-  * [Full CV](/docs/LeBlanc_full_CV_2022.pdf)
-  * [Technical Writing CV](docs/LeBlanc_writing_CV_2022.pdf)
+  * [Full CV](/docs/LeBlanc_fullCV_2023.pdf)
+  * [Technical Writing CV](docs/LeBlanc_onePager_2023.pdf)
   * [PhD Dissertation](docs/dissertation-full.pdf)
 
 
