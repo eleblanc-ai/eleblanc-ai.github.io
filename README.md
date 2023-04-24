@@ -4,8 +4,8 @@
 * Downloads:
 
   * [Full CV](/docs/LeBlanc_fullCV_2023.pdf)
-  * [Technical Writing CV](docs/LeBlanc_onePager_2023.pdf)
-  * [PhD Dissertation](docs/dissertation-full.pdf)
+  * [One page resume](docs/LeBlanc_onePager_2023.pdf)
+  * [PhD dissertation](docs/dissertation-full.pdf)
 
 
 * Check out my [GitHub](https://github.com/eleblanc-ai/).
