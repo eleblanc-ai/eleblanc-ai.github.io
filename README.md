@@ -3,8 +3,8 @@
 
 * Downloads:
 
-  * [Full CV](/docs/LeBlanc_fullCV_2023.pdf)
-  * [One page resume](docs/LeBlanc_onePager_2023.pdf)
+  * [Full CV](/docs/LeBlanc_full_CV_2023.pdf)
+  * [One page resume](docs/LeBlanc_resume_2023.pdf)
   * [PhD dissertation](docs/dissertation-full.pdf)
 
 
