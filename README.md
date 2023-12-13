@@ -11,7 +11,7 @@
 * Check out my [GitHub](https://github.com/eleblanc-ai/).
 
 
-* Take a look at my [writing portfolio](https://github.com/eleblanc-ai/writing-portfolio).
+<!-- * Take a look at my [writing portfolio](https://github.com/eleblanc-ai/writing-portfolio).-->
  
 
 <!--* Visit my [technical writing blog](https://eleblanc.dev/).-->
