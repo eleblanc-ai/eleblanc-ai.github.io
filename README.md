@@ -7,6 +7,7 @@
   * [One page resume](docs/LeBlanc_resume_2023.pdf)
   * [PhD dissertation](docs/dissertation-full.pdf)
 
+* Learn about my Prompt Engineering experience at [LeBlanc's Prompts](https://leblancs-prompts.vercel.app/).
 
 * Check out my [GitHub](https://github.com/eleblanc-ai/).
 
