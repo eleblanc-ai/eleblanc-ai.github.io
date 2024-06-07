@@ -3,8 +3,7 @@
 
 * Downloads:
 
-  * [Full CV](/docs/LeBlanc_CV_2023.pdf)
-  * [One page resume](docs/LeBlanc_resume_2023.pdf)
+  * [Full CV](/docs/LeBlanc_full_CV_052024.pdf)
   * [PhD dissertation](docs/dissertation-full.pdf)
 
 * Learn about my Prompt Engineering experience at [LeBlanc's Prompts](https://leblancs-prompts.vercel.app/).
